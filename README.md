@@ -15,6 +15,7 @@ Upload the contents of this folder to a GitHub repository, then enable GitHub Pa
 - `index.html`: page structure and English content
 - `styles.css`: responsive visual design using the Use of English Lab palette
 - `script.js`: reading progress and accessible in-page navigation
+- `Use-of-English-Lab-Generative-AI-Guide.pdf`: A4 PDF opened by the “View / Download PDF” button
 
 ## Design system
 
